@@ -25,11 +25,9 @@ https://kankan1176.github.io/worldmapgame/
 
 GitHub の Settings → Pages → Build and deployment で次を指定します。
 
-- Source: Deploy from a branch
-- Branch: main
-- Folder: / (root)
+- Source: GitHub Actions
 
-Save 後、Pages の公開処理が完了すると上記URLが有効になります。
+`.github/workflows/pages.yml` が main ブランチへの保存時に自動でゲームを公開します。Actions 画面から手動実行することもできます。公開処理の完了後、上記URLが有効になります。
 
 ## 国境ルールとデータ
 
