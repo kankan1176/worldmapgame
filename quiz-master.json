@@ -1,0 +1,2207 @@
+{
+  "version": 2,
+  "verifiedDate": "2026-10-20",
+  "roundSize": 10,
+  "questions": [
+    {
+      "id": "okinawa-now",
+      "era": "now",
+      "place": "沖縄",
+      "point": [
+        26.3,
+        127.8
+      ],
+      "q": "沖縄は、いま、どの国の一部かな？",
+      "choices": [
+        "日本",
+        "アメリカ",
+        "フィリピン",
+        "インドネシア"
+      ],
+      "a": 0,
+      "why": "日本だよ。沖縄には、たくさんの島があるね。1972年に、沖縄の政治を行う権限がアメリカから日本に返されたよ。",
+      "source": "https://www.mofa.go.jp/mofaj/gaiko/bluebook/1972/s47-shiryou-4-1.htm",
+      "sourceName": "外務省・沖縄返還協定"
+    },
+    {
+      "id": "ogasawara-now",
+      "era": "now",
+      "place": "小笠原諸島",
+      "point": [
+        27.1,
+        142.2
+      ],
+      "q": "小笠原諸島は、いま、日本のどの都道府県に入るかな？",
+      "choices": [
+        "東京都",
+        "沖縄県",
+        "鹿児島県",
+        "静岡県"
+      ],
+      "a": 0,
+      "why": "東京都だよ。東京のまちからずっと南へ離れていても、同じ東京都なんだ。",
+      "source": "https://www.vill.ogasawara.tokyo.jp/outline_development/",
+      "sourceName": "小笠原村・沿革"
+    },
+    {
+      "id": "guam-now",
+      "era": "now",
+      "place": "グアム",
+      "point": [
+        13.4,
+        144.8
+      ],
+      "q": "グアムは、いま、どの国の領土かな？ ただし、その国の「州」ではないよ。",
+      "choices": [
+        "アメリカ",
+        "日本",
+        "スペイン",
+        "フィリピン"
+      ],
+      "a": 0,
+      "why": "アメリカの領土だよ。ハワイはアメリカの州だけれど、グアムは州ではないんだ。",
+      "source": "https://www.doi.gov/oia/",
+      "sourceName": "アメリカ内務省・島の地域"
+    },
+    {
+      "id": "greenland-now",
+      "era": "now",
+      "place": "グリーンランド",
+      "point": [
+        72,
+        -42
+      ],
+      "q": "グリーンランドは、自分たちで多くのことを決める地域だよ。どの王国の一部かな？",
+      "choices": [
+        "デンマーク王国",
+        "ノルウェー王国",
+        "スウェーデン王国",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "デンマーク王国だよ。グリーンランドには、自分たちの政府があるんだ。国全体のことと、地域で決めることを分けているよ。",
+      "source": "https://um.dk/en/foreign-policy/the-arctic/greenland-and-the-faroe-islands/",
+      "sourceName": "デンマーク外務省"
+    },
+    {
+      "id": "faroe-now",
+      "era": "now",
+      "place": "フェロー諸島",
+      "point": [
+        62,
+        -7
+      ],
+      "q": "フェロー諸島も、自分たちの政府をもっているよ。どの王国の一部かな？",
+      "choices": [
+        "デンマーク王国",
+        "ノルウェー王国",
+        "イギリス",
+        "オランダ王国"
+      ],
+      "a": 0,
+      "why": "デンマーク王国だよ。グリーンランドと同じ王国の一部だけれど、別の地域として、多くのことを自分たちで決めているよ。",
+      "source": "https://um.dk/en/foreign-policy/the-arctic/greenland-and-the-faroe-islands/",
+      "sourceName": "デンマーク外務省"
+    },
+    {
+      "id": "samoa-now",
+      "era": "now",
+      "place": "アメリカ領サモア",
+      "point": [
+        -14.3,
+        -170.7
+      ],
+      "q": "アメリカ領サモアは、いま、どの国の領土かな？ 独立国の「サモア」とは別だよ。",
+      "choices": [
+        "アメリカ",
+        "サモア",
+        "ニュージーランド",
+        "オーストラリア"
+      ],
+      "a": 0,
+      "why": "アメリカの領土だよ。となりにある独立国のサモアと、名前を分けて覚えておこう。",
+      "source": "https://www.doi.gov/oia/",
+      "sourceName": "アメリカ内務省・島の地域"
+    },
+    {
+      "id": "marianas-now",
+      "era": "now",
+      "place": "北マリアナ諸島",
+      "point": [
+        15.2,
+        145.7
+      ],
+      "q": "サイパン島がある北マリアナ諸島は、いま、どの国とつながる自治地域かな？",
+      "choices": [
+        "アメリカ",
+        "日本",
+        "スペイン",
+        "ニュージーランド"
+      ],
+      "a": 0,
+      "why": "アメリカだよ。「自治」は、その地域の人たちが自分たちで政治を行うこと。北マリアナ諸島には、自分たちの政府があるよ。",
+      "source": "https://www.doi.gov/oia/",
+      "sourceName": "アメリカ内務省・島の地域"
+    },
+    {
+      "id": "hawaii-now",
+      "era": "now",
+      "place": "ハワイ",
+      "point": [
+        20.8,
+        -156.3
+      ],
+      "q": "ハワイは、いま、どの国の「州」かな？",
+      "choices": [
+        "アメリカ",
+        "日本",
+        "イギリス",
+        "オーストラリア"
+      ],
+      "a": 0,
+      "why": "アメリカの州だよ。1959年に50番目の州になったんだ。グアムのような「州ではない領土」とは、しくみがちがうよ。",
+      "source": "https://home.nps.gov/hale/learn/historyculture/timeline.htm",
+      "sourceName": "アメリカ国立公園局・ハワイの年表"
+    },
+    {
+      "id": "okinawa-year",
+      "era": "past",
+      "place": "沖縄",
+      "point": [
+        26.3,
+        127.8
+      ],
+      "q": "沖縄の政治を行う権限が、アメリカから日本に返されたのは何年かな？",
+      "choices": [
+        "1972年",
+        "1968年",
+        "1953年",
+        "1945年"
+      ],
+      "a": 0,
+      "why": "1972年だよ。「だれが政治を行うか」という権限が日本に返されたんだ。昔の支配と、いまの所属は分けて考えてみよう。",
+      "source": "https://www.mofa.go.jp/mofaj/files/100086818.pdf",
+      "sourceName": "外務省・外交史料館報33号"
+    },
+    {
+      "id": "ogasawara-year",
+      "era": "past",
+      "place": "小笠原諸島",
+      "point": [
+        27.1,
+        142.2
+      ],
+      "q": "小笠原諸島が、アメリカの管理から日本に返されたのは何年かな？",
+      "choices": [
+        "1968年",
+        "1972年",
+        "1953年",
+        "1980年"
+      ],
+      "a": 0,
+      "why": "1968年だよ。沖縄が返された1972年より、4年早いね。小笠原村の記録では、6月26日に返還式が開かれたよ。",
+      "source": "https://www.vill.ogasawara.tokyo.jp/outline_development/",
+      "sourceName": "小笠原村・沿革"
+    },
+    {
+      "id": "amami-year",
+      "era": "past",
+      "place": "奄美群島",
+      "point": [
+        28.3,
+        129.5
+      ],
+      "q": "奄美群島が日本に返された年を選んでね。沖縄や小笠原より早いよ。",
+      "choices": [
+        "1953年",
+        "1968年",
+        "1972年",
+        "1981年"
+      ],
+      "a": 0,
+      "why": "1953年だよ。奄美、小笠原、沖縄は、同じ年に返されたわけではないんだね。",
+      "source": "https://www.mofa.go.jp/mofaj/files/100086818.pdf",
+      "sourceName": "外務省・外交史料館報33号"
+    },
+    {
+      "id": "alaska-seller",
+      "era": "past",
+      "place": "アラスカ",
+      "point": [
+        64,
+        -152
+      ],
+      "q": "1867年、アメリカはアラスカを買ったよ。相手はどの国だったかな？",
+      "choices": [
+        "ロシア",
+        "カナダ",
+        "イギリス",
+        "デンマーク"
+      ],
+      "a": 0,
+      "why": "ロシアだよ。海の向こうにあるロシアとアラスカは、昔の歴史でもつながっているね。",
+      "source": "https://www.archives.gov/milestone-documents/check-for-the-purchase-of-alaska",
+      "sourceName": "アメリカ国立公文書館"
+    },
+    {
+      "id": "alaska-year",
+      "era": "past",
+      "place": "アラスカ",
+      "point": [
+        64,
+        -152
+      ],
+      "q": "アメリカがロシアからアラスカを買う約束をしたのは何年かな？",
+      "choices": [
+        "1867年",
+        "1803年",
+        "1898年",
+        "1959年"
+      ],
+      "a": 0,
+      "why": "1867年だよ。いまの地図だけでなく、国どうしの約束で地図が変わった時も考えてみよう。",
+      "source": "https://www.archives.gov/milestone-documents/check-for-the-purchase-of-alaska",
+      "sourceName": "アメリカ国立公文書館"
+    },
+    {
+      "id": "hawaii-year",
+      "era": "past",
+      "place": "ハワイ",
+      "point": [
+        20.8,
+        -156.3
+      ],
+      "q": "ハワイがアメリカの50番目の州になったのは何年かな？",
+      "choices": [
+        "1959年",
+        "1898年",
+        "1945年",
+        "1972年"
+      ],
+      "a": 0,
+      "why": "1959年だよ。アメリカとの関係が始まった年と、州になった年は同じではないんだ。",
+      "source": "https://home.nps.gov/hale/learn/historyculture/timeline.htm",
+      "sourceName": "アメリカ国立公園局・ハワイの年表"
+    },
+    {
+      "id": "indonesia-colony",
+      "era": "past",
+      "place": "インドネシア",
+      "point": [
+        -6,
+        110
+      ],
+      "q": "1945年に独立を宣言したインドネシア。それより前、長く植民地として支配したヨーロッパの国はどこかな？",
+      "choices": [
+        "オランダ",
+        "ポルトガル",
+        "スペイン",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "オランダだよ。第二次世界大戦中には日本軍による占領もあったんだ。時代によって、できごとを分けて見よう。",
+      "source": "https://www.mofa.go.jp/mofaj/area/indonesia/data.html",
+      "sourceName": "外務省・インドネシア基礎データ"
+    },
+    {
+      "id": "srilanka-name",
+      "era": "past",
+      "place": "スリランカ",
+      "point": [
+        7.9,
+        80.7
+      ],
+      "q": "1948年に独立した、いまのスリランカ。当時の国名は何だったかな？",
+      "choices": [
+        "セイロン",
+        "ビルマ",
+        "シャム",
+        "バタビア"
+      ],
+      "a": 0,
+      "why": "セイロンだよ。国の名前も、時代によって変わることがあるんだね。",
+      "source": "https://www.mofa.go.jp/mofaj/area/srilanka/data.html",
+      "sourceName": "外務省・スリランカ基礎データ"
+    },
+    {
+      "id": "samoa-trust",
+      "era": "past",
+      "place": "サモア",
+      "point": [
+        -13.8,
+        -172.1
+      ],
+      "q": "1962年に独立した西サモア。その直前、国連との約束で政治を行っていた国はどこかな？",
+      "choices": [
+        "ニュージーランド",
+        "アメリカ",
+        "フランス",
+        "日本"
+      ],
+      "a": 0,
+      "why": "ニュージーランドだよ。独立国のサモアと、アメリカ領サモアを、分けて覚えてみよう。",
+      "source": "https://www.mofa.go.jp/mofaj/area/samoa/data.html",
+      "sourceName": "外務省・サモア基礎データ"
+    },
+    {
+      "id": "philippines-independence",
+      "era": "past",
+      "place": "フィリピン",
+      "point": [
+        12.9,
+        122
+      ],
+      "q": "1946年、フィリピンの独立を認めて、国を治める権限を渡したのはどの国かな？",
+      "choices": [
+        "アメリカ",
+        "スペイン",
+        "オランダ",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "アメリカだよ。それより前にはスペインの支配や、日本軍による占領もあったんだ。問題に出た年をよく見てね。",
+      "source": "https://openjicareport.jica.go.jp/pdf/12184883.pdf",
+      "sourceName": "JICA・フィリピンの歴史"
+    },
+    {
+      "id": "anguilla-now",
+      "era": "now",
+      "place": "アンギラ",
+      "point": [
+        18.2,
+        -63.1
+      ],
+      "q": "カリブ海にあるアンギラ。いま、どの国の海外領土かな？",
+      "choices": [
+        "イギリス",
+        "フランス",
+        "オランダ",
+        "アメリカ"
+      ],
+      "a": 0,
+      "why": "イギリスの海外領土だよ。本国から遠く離れた場所にも、つながりがあるね。",
+      "source": "https://www.gov.uk/types-of-british-nationality/british-overseas-territories-citizen",
+      "sourceName": "イギリス政府"
+    },
+    {
+      "id": "bermuda-now",
+      "era": "now",
+      "place": "バミューダ諸島",
+      "point": [
+        32.3,
+        -64.8
+      ],
+      "q": "北大西洋にあるバミューダ諸島。いま、どの国の海外領土かな？",
+      "choices": [
+        "イギリス",
+        "フランス",
+        "オランダ",
+        "アメリカ"
+      ],
+      "a": 0,
+      "why": "イギリスの海外領土だよ。本国から遠く離れた場所にも、つながりがあるね。",
+      "source": "https://www.gov.uk/types-of-british-nationality/british-overseas-territories-citizen",
+      "sourceName": "イギリス政府"
+    },
+    {
+      "id": "bvi-now",
+      "era": "now",
+      "place": "イギリス領バージン諸島",
+      "point": [
+        18.4,
+        -64.6
+      ],
+      "q": "カリブ海にあるイギリス領バージン諸島。いま、どの国の海外領土かな？",
+      "choices": [
+        "イギリス",
+        "フランス",
+        "オランダ",
+        "アメリカ"
+      ],
+      "a": 0,
+      "why": "イギリスの海外領土だよ。本国から遠く離れた場所にも、つながりがあるね。",
+      "source": "https://www.gov.uk/types-of-british-nationality/british-overseas-territories-citizen",
+      "sourceName": "イギリス政府"
+    },
+    {
+      "id": "cayman-now",
+      "era": "now",
+      "place": "ケイマン諸島",
+      "point": [
+        19.3,
+        -81.3
+      ],
+      "q": "カリブ海にあるケイマン諸島。いま、どの国の海外領土かな？",
+      "choices": [
+        "イギリス",
+        "フランス",
+        "オランダ",
+        "アメリカ"
+      ],
+      "a": 0,
+      "why": "イギリスの海外領土だよ。本国から遠く離れた場所にも、つながりがあるね。",
+      "source": "https://www.gov.uk/types-of-british-nationality/british-overseas-territories-citizen",
+      "sourceName": "イギリス政府"
+    },
+    {
+      "id": "montserrat-now",
+      "era": "now",
+      "place": "モントセラト",
+      "point": [
+        16.7,
+        -62.2
+      ],
+      "q": "カリブ海にあるモントセラト。いま、どの国の海外領土かな？",
+      "choices": [
+        "イギリス",
+        "フランス",
+        "オランダ",
+        "アメリカ"
+      ],
+      "a": 0,
+      "why": "イギリスの海外領土だよ。本国から遠く離れた場所にも、つながりがあるね。",
+      "source": "https://www.gov.uk/types-of-british-nationality/british-overseas-territories-citizen",
+      "sourceName": "イギリス政府"
+    },
+    {
+      "id": "pitcairn-now",
+      "era": "now",
+      "place": "ピトケアン諸島",
+      "point": [
+        -25.1,
+        -130.1
+      ],
+      "q": "南太平洋にあるピトケアン諸島。いま、どの国の海外領土かな？",
+      "choices": [
+        "イギリス",
+        "フランス",
+        "オランダ",
+        "アメリカ"
+      ],
+      "a": 0,
+      "why": "イギリスの海外領土だよ。本国から遠く離れた場所にも、つながりがあるね。",
+      "source": "https://www.gov.uk/types-of-british-nationality/british-overseas-territories-citizen",
+      "sourceName": "イギリス政府"
+    },
+    {
+      "id": "sthelena-now",
+      "era": "now",
+      "place": "セントヘレナ島",
+      "point": [
+        -15.9,
+        -5.7
+      ],
+      "q": "南大西洋にあるセントヘレナ島。いま、どの国の海外領土かな？",
+      "choices": [
+        "イギリス",
+        "フランス",
+        "オランダ",
+        "アメリカ"
+      ],
+      "a": 0,
+      "why": "イギリスの海外領土だよ。本国から遠く離れた場所にも、つながりがあるね。",
+      "source": "https://www.gov.uk/types-of-british-nationality/british-overseas-territories-citizen",
+      "sourceName": "イギリス政府"
+    },
+    {
+      "id": "turks-now",
+      "era": "now",
+      "place": "タークス・カイコス諸島",
+      "point": [
+        21.8,
+        -71.8
+      ],
+      "q": "カリブ海の近くにあるタークス・カイコス諸島。いま、どの国の海外領土かな？",
+      "choices": [
+        "イギリス",
+        "フランス",
+        "オランダ",
+        "アメリカ"
+      ],
+      "a": 0,
+      "why": "イギリスの海外領土だよ。本国から遠く離れた場所にも、つながりがあるね。",
+      "source": "https://www.gov.uk/types-of-british-nationality/british-overseas-territories-citizen",
+      "sourceName": "イギリス政府"
+    },
+    {
+      "id": "reunion-now",
+      "era": "now",
+      "place": "レユニオン島",
+      "point": [
+        -21.1,
+        55.5
+      ],
+      "q": "インド洋にあるレユニオン島。いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "フランスだよ。海の向こうにあるフランスの地域なんだ。地域ごとに政治のしくみはちがうよ。",
+      "source": "https://www.outre-mer.gouv.fr/acteurs-des-outre-mer/presidences-des-gouvernements-executifs-et-assemblees-territoriales",
+      "sourceName": "フランス海外領土省"
+    },
+    {
+      "id": "guadeloupe-now",
+      "era": "now",
+      "place": "グアドループ",
+      "point": [
+        16.2,
+        -61.5
+      ],
+      "q": "カリブ海にあるグアドループ。いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "フランスだよ。海の向こうにあるフランスの地域なんだ。地域ごとに政治のしくみはちがうよ。",
+      "source": "https://www.outre-mer.gouv.fr/acteurs-des-outre-mer/presidences-des-gouvernements-executifs-et-assemblees-territoriales",
+      "sourceName": "フランス海外領土省"
+    },
+    {
+      "id": "martinique-now",
+      "era": "now",
+      "place": "マルティニーク",
+      "point": [
+        14.6,
+        -61
+      ],
+      "q": "カリブ海にあるマルティニーク。いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "フランスだよ。海の向こうにあるフランスの地域なんだ。地域ごとに政治のしくみはちがうよ。",
+      "source": "https://www.outre-mer.gouv.fr/acteurs-des-outre-mer/presidences-des-gouvernements-executifs-et-assemblees-territoriales",
+      "sourceName": "フランス海外領土省"
+    },
+    {
+      "id": "guyane-now",
+      "era": "now",
+      "place": "フランス領ギアナ",
+      "point": [
+        4,
+        -53
+      ],
+      "q": "南アメリカにあるフランス領ギアナ。いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "フランスだよ。海の向こうにあるフランスの地域なんだ。地域ごとに政治のしくみはちがうよ。",
+      "source": "https://www.outre-mer.gouv.fr/acteurs-des-outre-mer/presidences-des-gouvernements-executifs-et-assemblees-territoriales",
+      "sourceName": "フランス海外領土省"
+    },
+    {
+      "id": "newcaledonia-now",
+      "era": "now",
+      "place": "ニューカレドニア",
+      "point": [
+        -21.3,
+        165.5
+      ],
+      "q": "太平洋にあるニューカレドニア。いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "フランスだよ。海の向こうにあるフランスの地域なんだ。地域ごとに政治のしくみはちがうよ。",
+      "source": "https://www.outre-mer.gouv.fr/acteurs-des-outre-mer/presidences-des-gouvernements-executifs-et-assemblees-territoriales",
+      "sourceName": "フランス海外領土省"
+    },
+    {
+      "id": "polynesia-now",
+      "era": "now",
+      "place": "フランス領ポリネシア",
+      "point": [
+        -17.6,
+        -149.4
+      ],
+      "q": "南太平洋にあるフランス領ポリネシア。いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "フランスだよ。海の向こうにあるフランスの地域なんだ。地域ごとに政治のしくみはちがうよ。",
+      "source": "https://www.outre-mer.gouv.fr/acteurs-des-outre-mer/presidences-des-gouvernements-executifs-et-assemblees-territoriales",
+      "sourceName": "フランス海外領土省"
+    },
+    {
+      "id": "wallis-now",
+      "era": "now",
+      "place": "ウォリス・フツナ",
+      "point": [
+        -13.3,
+        -176.2
+      ],
+      "q": "南太平洋にあるウォリス・フツナ。いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "フランスだよ。海の向こうにあるフランスの地域なんだ。地域ごとに政治のしくみはちがうよ。",
+      "source": "https://www.outre-mer.gouv.fr/acteurs-des-outre-mer/presidences-des-gouvernements-executifs-et-assemblees-territoriales",
+      "sourceName": "フランス海外領土省"
+    },
+    {
+      "id": "stpierre-now",
+      "era": "now",
+      "place": "サンピエール・ミクロン",
+      "point": [
+        46.8,
+        -56.2
+      ],
+      "q": "カナダの近くにあるサンピエール・ミクロン。いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "フランスだよ。海の向こうにあるフランスの地域なんだ。地域ごとに政治のしくみはちがうよ。",
+      "source": "https://www.outre-mer.gouv.fr/acteurs-des-outre-mer/presidences-des-gouvernements-executifs-et-assemblees-territoriales",
+      "sourceName": "フランス海外領土省"
+    },
+    {
+      "id": "stbart-now",
+      "era": "now",
+      "place": "サン・バルテルミー島",
+      "point": [
+        17.9,
+        -62.8
+      ],
+      "q": "カリブ海にあるサン・バルテルミー島。いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "フランスだよ。海の向こうにあるフランスの地域なんだ。地域ごとに政治のしくみはちがうよ。",
+      "source": "https://www.outre-mer.gouv.fr/acteurs-des-outre-mer/presidences-des-gouvernements-executifs-et-assemblees-territoriales",
+      "sourceName": "フランス海外領土省"
+    },
+    {
+      "id": "aruba-now",
+      "era": "now",
+      "place": "アルバ",
+      "point": [
+        12.5,
+        -70
+      ],
+      "q": "アルバは、自分たちの政府をもつ国だよ。どの王国をつくる仲間かな？",
+      "choices": [
+        "オランダ王国",
+        "デンマーク王国",
+        "イギリス",
+        "スペイン"
+      ],
+      "a": 0,
+      "why": "オランダ王国だよ。オランダ、アルバ、キュラソー、シント・マールテンの4つの国で、1つの王国をつくっているんだ。",
+      "source": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom",
+      "sourceName": "オランダ政府"
+    },
+    {
+      "id": "curacao-now",
+      "era": "now",
+      "place": "キュラソー",
+      "point": [
+        12.2,
+        -69
+      ],
+      "q": "キュラソーは、自分たちの政府をもつ国だよ。どの王国をつくる仲間かな？",
+      "choices": [
+        "オランダ王国",
+        "デンマーク王国",
+        "イギリス",
+        "スペイン"
+      ],
+      "a": 0,
+      "why": "オランダ王国だよ。オランダ、アルバ、キュラソー、シント・マールテンの4つの国で、1つの王国をつくっているんだ。",
+      "source": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom",
+      "sourceName": "オランダ政府"
+    },
+    {
+      "id": "sintmaarten-now",
+      "era": "now",
+      "place": "シント・マールテン",
+      "point": [
+        18,
+        -63.1
+      ],
+      "q": "シント・マールテンは、自分たちの政府をもつ国だよ。どの王国をつくる仲間かな？",
+      "choices": [
+        "オランダ王国",
+        "デンマーク王国",
+        "イギリス",
+        "スペイン"
+      ],
+      "a": 0,
+      "why": "オランダ王国だよ。オランダ、アルバ、キュラソー、シント・マールテンの4つの国で、1つの王国をつくっているんだ。",
+      "source": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom",
+      "sourceName": "オランダ政府"
+    },
+    {
+      "id": "bonaire-now",
+      "era": "now",
+      "place": "ボネール",
+      "point": [
+        12.2,
+        -68.3
+      ],
+      "q": "カリブ海のボネールは、いま、どの国の特別な市にあたる地域かな？",
+      "choices": [
+        "オランダ",
+        "フランス",
+        "イギリス",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "オランダだよ。ボネール、サバ、シント・ユースタティウスは、オランダの特別な市にあたる地域なんだ。",
+      "source": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom/governance-of-bonaire-st-eustatius-and-saba",
+      "sourceName": "オランダ政府"
+    },
+    {
+      "id": "saba-now",
+      "era": "now",
+      "place": "サバ",
+      "point": [
+        17.6,
+        -63.2
+      ],
+      "q": "カリブ海のサバは、いま、どの国の特別な市にあたる地域かな？",
+      "choices": [
+        "オランダ",
+        "フランス",
+        "イギリス",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "オランダだよ。ボネール、サバ、シント・ユースタティウスは、オランダの特別な市にあたる地域なんだ。",
+      "source": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom/governance-of-bonaire-st-eustatius-and-saba",
+      "sourceName": "オランダ政府"
+    },
+    {
+      "id": "eustatius-now",
+      "era": "now",
+      "place": "シント・ユースタティウス",
+      "point": [
+        17.5,
+        -63
+      ],
+      "q": "カリブ海のシント・ユースタティウスは、いま、どの国の特別な市にあたる地域かな？",
+      "choices": [
+        "オランダ",
+        "フランス",
+        "イギリス",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "オランダだよ。ボネール、サバ、シント・ユースタティウスは、オランダの特別な市にあたる地域なんだ。",
+      "source": "https://www.government.nl/themes/government-and-democracy/caribbean-parts-of-the-kingdom/governance-of-bonaire-st-eustatius-and-saba",
+      "sourceName": "オランダ政府"
+    },
+    {
+      "id": "christmas-now",
+      "era": "now",
+      "place": "クリスマス島",
+      "point": [
+        -10.5,
+        105.6
+      ],
+      "q": "クリスマス島は、いま、どの国の領土かな？",
+      "choices": [
+        "オーストラリア",
+        "ニュージーランド",
+        "インドネシア",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "オーストラリアだよ。大きな大陸の本土だけでなく、海に離れた領土もあるんだね。",
+      "source": "https://www.infrastructure.gov.au/territories-regions/australian-territories",
+      "sourceName": "オーストラリア政府"
+    },
+    {
+      "id": "cocos-now",
+      "era": "now",
+      "place": "ココス諸島",
+      "point": [
+        -12.2,
+        96.8
+      ],
+      "q": "ココス諸島は、いま、どの国の領土かな？",
+      "choices": [
+        "オーストラリア",
+        "ニュージーランド",
+        "インドネシア",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "オーストラリアだよ。大きな大陸の本土だけでなく、海に離れた領土もあるんだね。",
+      "source": "https://www.infrastructure.gov.au/territories-regions/australian-territories",
+      "sourceName": "オーストラリア政府"
+    },
+    {
+      "id": "norfolk-now",
+      "era": "now",
+      "place": "ノーフォーク島",
+      "point": [
+        -29,
+        168
+      ],
+      "q": "ノーフォーク島は、いま、どの国の領土かな？",
+      "choices": [
+        "オーストラリア",
+        "ニュージーランド",
+        "インドネシア",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "オーストラリアだよ。大きな大陸の本土だけでなく、海に離れた領土もあるんだね。",
+      "source": "https://www.infrastructure.gov.au/territories-regions/australian-territories",
+      "sourceName": "オーストラリア政府"
+    },
+    {
+      "id": "coralsea-now",
+      "era": "now",
+      "place": "サンゴ海諸島",
+      "point": [
+        -19,
+        151
+      ],
+      "q": "サンゴ海諸島は、いま、どの国の領土かな？",
+      "choices": [
+        "オーストラリア",
+        "ニュージーランド",
+        "インドネシア",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "オーストラリアだよ。大きな大陸の本土だけでなく、海に離れた領土もあるんだね。",
+      "source": "https://www.infrastructure.gov.au/territories-regions/australian-territories",
+      "sourceName": "オーストラリア政府"
+    },
+    {
+      "id": "ashmore-now",
+      "era": "now",
+      "place": "アシュモア・カルティエ諸島",
+      "point": [
+        -12.3,
+        123.1
+      ],
+      "q": "アシュモア・カルティエ諸島は、いま、どの国の領土かな？",
+      "choices": [
+        "オーストラリア",
+        "ニュージーランド",
+        "インドネシア",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "オーストラリアだよ。大きな大陸の本土だけでなく、海に離れた領土もあるんだね。",
+      "source": "https://www.infrastructure.gov.au/territories-regions/australian-territories",
+      "sourceName": "オーストラリア政府"
+    },
+    {
+      "id": "tokelau-now",
+      "era": "now",
+      "place": "トケラウ",
+      "point": [
+        -9.2,
+        -171.8
+      ],
+      "q": "トケラウは、いま、どの国が管理する地域かな？",
+      "choices": [
+        "ニュージーランド",
+        "オーストラリア",
+        "アメリカ",
+        "フランス"
+      ],
+      "a": 0,
+      "why": "ニュージーランドだよ。トケラウにも、地域の人たちが政治を話し合うしくみがあるんだ。",
+      "source": "https://www.mfat.govt.nz/en/countries-and-regions/australia-and-pacific/tokelau",
+      "sourceName": "ニュージーランド外務省"
+    },
+    {
+      "id": "cook-association",
+      "era": "now",
+      "place": "クック諸島",
+      "point": [
+        -21.2,
+        -159.8
+      ],
+      "q": "クック諸島が「自由連合」という関係を結んでいる相手は、どの国かな？",
+      "choices": [
+        "ニュージーランド",
+        "オーストラリア",
+        "イギリス",
+        "フランス"
+      ],
+      "a": 0,
+      "why": "ニュージーランドだよ。自分たちで政治を行いながら、特別な関係を結んでいるんだ。ふつうの海外領土とは分けて覚えよう。",
+      "source": "https://www.mfat.govt.nz/assets/OIA/OIA-2023/OIA-28505-US-recognition-of-Cook-Islands-and-Niue-30-March-2023.pdf",
+      "sourceName": "ニュージーランド外務省"
+    },
+    {
+      "id": "niue-association",
+      "era": "now",
+      "place": "ニウエ",
+      "point": [
+        -19.1,
+        -169.9
+      ],
+      "q": "ニウエが「自由連合」という関係を結んでいる相手は、どの国かな？",
+      "choices": [
+        "ニュージーランド",
+        "オーストラリア",
+        "イギリス",
+        "フランス"
+      ],
+      "a": 0,
+      "why": "ニュージーランドだよ。自分たちで政治を行いながら、特別な関係を結んでいるんだ。ふつうの海外領土とは分けて覚えよう。",
+      "source": "https://www.mfat.govt.nz/assets/OIA/OIA-2023/OIA-28505-US-recognition-of-Cook-Islands-and-Niue-30-March-2023.pdf",
+      "sourceName": "ニュージーランド外務省"
+    },
+    {
+      "id": "svalbard-now",
+      "era": "now",
+      "place": "スバールバル諸島",
+      "point": [
+        78,
+        16
+      ],
+      "q": "北の海にあるスバールバル諸島は、いま、どの国の一部かな？",
+      "choices": [
+        "ノルウェー",
+        "デンマーク",
+        "アイスランド",
+        "スウェーデン"
+      ],
+      "a": 0,
+      "why": "ノルウェーだよ。北の海には、ヨーロッパ本土から離れた島々もあるんだね。",
+      "source": "https://www.regjeringen.no/no/tema/utenrikssaker/folkerett/svalbard/id2350955/",
+      "sourceName": "ノルウェー政府"
+    },
+    {
+      "id": "janmayen-now",
+      "era": "now",
+      "place": "ヤンマイエン島",
+      "point": [
+        71,
+        -8.4
+      ],
+      "q": "北の海にあるヤンマイエン島は、いま、どの国の一部かな？",
+      "choices": [
+        "ノルウェー",
+        "デンマーク",
+        "アイスランド",
+        "スウェーデン"
+      ],
+      "a": 0,
+      "why": "ノルウェーだよ。北の海には、ヨーロッパ本土から離れた島々もあるんだね。",
+      "source": "https://www.regjeringen.no/no/tema/utenrikssaker/folkerett/svalbard/id2350955/",
+      "sourceName": "ノルウェー政府"
+    },
+    {
+      "id": "usvi-now",
+      "era": "now",
+      "place": "アメリカ領バージン諸島",
+      "point": [
+        18.3,
+        -64.9
+      ],
+      "q": "セントトマス島があるアメリカ領バージン諸島。いま、どの国の領土かな？",
+      "choices": [
+        "アメリカ",
+        "イギリス",
+        "オランダ",
+        "デンマーク"
+      ],
+      "a": 0,
+      "why": "アメリカだよ。近くのイギリス領バージン諸島とは、所属する国がちがうんだ。",
+      "source": "https://www.doi.gov/oia/islands",
+      "sourceName": "アメリカ内務省"
+    },
+    {
+      "id": "puertorico-now",
+      "era": "now",
+      "place": "プエルトリコ",
+      "point": [
+        18.2,
+        -66.5
+      ],
+      "q": "プエルトリコは、いま、どの国の領土かな？ その国の州ではないよ。",
+      "choices": [
+        "アメリカ",
+        "スペイン",
+        "フランス",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "アメリカだよ。自分たちの政府をもつけれど、アメリカの州ではないんだ。",
+      "source": "https://www.estado.pr.gov/extranjeros-inform",
+      "sourceName": "プエルトリコ政府"
+    },
+    {
+      "id": "azores-now",
+      "era": "now",
+      "place": "アゾレス諸島",
+      "point": [
+        38,
+        -28
+      ],
+      "q": "大西洋のアゾレス諸島は、どの国の自治地域かな？",
+      "choices": [
+        "ポルトガル",
+        "スペイン",
+        "フランス",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "ポルトガルだよ。アゾレスとマデイラは、どちらもポルトガルの自治地域なんだ。",
+      "source": "https://diariodarepublica.pt/dr/lexionario/termo/regioes-autonomas",
+      "sourceName": "ポルトガル官報"
+    },
+    {
+      "id": "madeira-now",
+      "era": "now",
+      "place": "マデイラ諸島",
+      "point": [
+        32.7,
+        -16.9
+      ],
+      "q": "大西洋のマデイラ諸島は、どの国の自治地域かな？",
+      "choices": [
+        "ポルトガル",
+        "スペイン",
+        "フランス",
+        "イギリス"
+      ],
+      "a": 0,
+      "why": "ポルトガルだよ。アゾレスとマデイラは、どちらもポルトガルの自治地域なんだ。",
+      "source": "https://diariodarepublica.pt/dr/lexionario/termo/regioes-autonomas",
+      "sourceName": "ポルトガル官報"
+    },
+    {
+      "id": "canary-now",
+      "era": "now",
+      "place": "カナリア諸島",
+      "point": [
+        28.3,
+        -16.5
+      ],
+      "q": "アフリカの近くにあるカナリア諸島。いま、どの国の一部かな？",
+      "choices": [
+        "スペイン",
+        "ポルトガル",
+        "モロッコ",
+        "フランス"
+      ],
+      "a": 0,
+      "why": "スペインだよ。近くの大陸だけで所属する国を決めずに、地図を見てみよう。",
+      "source": "https://www.spain.info/en/region/canary-islands/",
+      "sourceName": "スペイン政府観光局"
+    },
+    {
+      "id": "aland-now",
+      "era": "now",
+      "place": "オーランド諸島",
+      "point": [
+        60.2,
+        20
+      ],
+      "q": "オーランド諸島は、スウェーデン語を使う人が多いよ。どの国の自治地域かな？",
+      "choices": [
+        "フィンランド",
+        "スウェーデン",
+        "ノルウェー",
+        "デンマーク"
+      ],
+      "a": 0,
+      "why": "フィンランドだよ。使う言葉と、所属する国は、いつも同じとはかぎらないんだ。",
+      "source": "https://toolbox.finland.fi/wp-content/uploads/sites/2/2020/05/the-archipelago-province-aland_2020-1.pdf",
+      "sourceName": "フィンランド外務省"
+    },
+    {
+      "id": "tsushima-now",
+      "era": "now",
+      "place": "対馬",
+      "point": [
+        34.3,
+        129.3
+      ],
+      "q": "日本と朝鮮半島のあいだにある対馬。日本のどの県に入るかな？",
+      "choices": [
+        "長崎県",
+        "福岡県",
+        "佐賀県",
+        "山口県"
+      ],
+      "a": 0,
+      "why": "長崎県だよ。海をへだてた島も、県の一部なんだね。",
+      "source": "https://www.city.tsushima.nagasaki.jp/",
+      "sourceName": "対馬市"
+    },
+    {
+      "id": "yakushima-now",
+      "era": "now",
+      "place": "屋久島",
+      "point": [
+        30.3,
+        130.5
+      ],
+      "q": "大きなスギの森がある屋久島。日本のどの県に入るかな？",
+      "choices": [
+        "鹿児島県",
+        "沖縄県",
+        "宮崎県",
+        "長崎県"
+      ],
+      "a": 0,
+      "why": "鹿児島県だよ。九州の南の海にある島なんだ。",
+      "source": "https://www.env.go.jp/park/yakushima/",
+      "sourceName": "環境省・屋久島国立公園"
+    },
+    {
+      "id": "yonaguni-now",
+      "era": "now",
+      "place": "与那国島",
+      "point": [
+        24.5,
+        123
+      ],
+      "q": "与那国島は、日本のどの県に入るかな？",
+      "choices": [
+        "沖縄県",
+        "鹿児島県",
+        "長崎県",
+        "東京都"
+      ],
+      "a": 0,
+      "why": "沖縄県だよ。台湾に近い場所にある、日本の島なんだ。",
+      "source": "https://service.gsi.go.jp/kiban/app/data_update_info_all/",
+      "sourceName": "国土地理院"
+    },
+    {
+      "id": "minamitorishima-now",
+      "era": "now",
+      "place": "南鳥島",
+      "point": [
+        24.3,
+        154
+      ],
+      "q": "太平洋の遠くにある南鳥島。日本のどの都道府県に入るかな？",
+      "choices": [
+        "東京都",
+        "沖縄県",
+        "千葉県",
+        "鹿児島県"
+      ],
+      "a": 0,
+      "why": "東京都だよ。小笠原村に入る島で、東京のまちから大きく離れているんだ。",
+      "source": "https://service.gsi.go.jp/kiban/app/data_update_info_all/",
+      "sourceName": "国土地理院"
+    },
+    {
+      "id": "hokkaido-now",
+      "era": "now",
+      "place": "北海道",
+      "point": [
+        43.1,
+        142.8
+      ],
+      "q": "本州の北にある北海道。この大きな島は、いま、どの国の一部かな？",
+      "choices": [
+        "日本",
+        "ロシア",
+        "中国",
+        "韓国"
+      ],
+      "a": 0,
+      "why": "日本だよ。本州とのあいだには津軽海峡があるね。",
+      "source": "https://www.pref.hokkaido.lg.jp/",
+      "sourceName": "北海道"
+    },
+    {
+      "id": "borneo-now",
+      "era": "now",
+      "place": "ボルネオ島",
+      "point": [
+        1,
+        114
+      ],
+      "q": "ボルネオ島を分け合っている3つの国は、どの組み合わせかな？",
+      "choices": [
+        "インドネシア・マレーシア・ブルネイ",
+        "インドネシア・タイ・ブルネイ",
+        "マレーシア・フィリピン・タイ",
+        "フィリピン・ブルネイ・シンガポール"
+      ],
+      "a": 0,
+      "why": "インドネシア、マレーシア、ブルネイだよ。大きな1つの島に、3つの国の領土があるんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/gaiko/oda/seisaku/pdfs/21_jyuten.pdf",
+      "sourceName": "外務省・ボルネオ島の地理"
+    },
+    {
+      "id": "newguinea-now",
+      "era": "now",
+      "place": "ニューギニア島",
+      "point": [
+        -5,
+        141
+      ],
+      "q": "ニューギニア島の東側はパプアニューギニア。西側は、どの国の一部かな？",
+      "choices": [
+        "インドネシア",
+        "オーストラリア",
+        "マレーシア",
+        "フィリピン"
+      ],
+      "a": 0,
+      "why": "インドネシアだよ。島の名前が、そのまま島全体の国名になるとはかぎらないね。",
+      "source": "https://www.pref.yamagata.jp/documents/16771/sht-net.pdf",
+      "sourceName": "山形県・国際交流資料"
+    },
+    {
+      "id": "hispaniola-now",
+      "era": "now",
+      "place": "イスパニョーラ島",
+      "point": [
+        19,
+        -71
+      ],
+      "q": "イスパニョーラ島の西側はハイチ。東側にある国はどこかな？",
+      "choices": [
+        "ドミニカ共和国",
+        "ドミニカ国",
+        "キューバ",
+        "ジャマイカ"
+      ],
+      "a": 0,
+      "why": "ドミニカ共和国だよ。ドミニカ国は、別の島にある別の国なんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/toko/medi/cs_ame/haiti.html",
+      "sourceName": "外務省・ハイチの地理"
+    },
+    {
+      "id": "timor-now",
+      "era": "now",
+      "place": "ティモール島",
+      "point": [
+        -9,
+        125
+      ],
+      "q": "ティモール島の東側には東ティモールがあるよ。西側は、どの国の一部かな？",
+      "choices": [
+        "インドネシア",
+        "マレーシア",
+        "オーストラリア",
+        "ポルトガル"
+      ],
+      "a": 0,
+      "why": "インドネシアだよ。東ティモールは独立国。なお、島の西側にも東ティモールの飛び地があるんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/easttimor/data.html",
+      "sourceName": "外務省・東ティモール基礎データ"
+    },
+    {
+      "id": "corsica-now",
+      "era": "now",
+      "place": "コルシカ島",
+      "point": [
+        42.1,
+        9.1
+      ],
+      "q": "地中海のコルシカ島は、いま、どの国の一部かな？",
+      "choices": [
+        "フランス",
+        "イタリア",
+        "スペイン",
+        "ギリシャ"
+      ],
+      "a": 0,
+      "why": "フランスだよ。イタリアに近いけれど、フランスの島なんだ。",
+      "source": "https://www.france.fr/fr/destination/corsica/",
+      "sourceName": "フランス観光開発機構"
+    },
+    {
+      "id": "sardinia-now",
+      "era": "now",
+      "place": "サルデーニャ島",
+      "point": [
+        40,
+        9
+      ],
+      "q": "地中海にあるサルデーニャ島は、いま、どの国の一部かな？",
+      "choices": [
+        "イタリア",
+        "フランス",
+        "スペイン",
+        "ギリシャ"
+      ],
+      "a": 0,
+      "why": "イタリアだよ。地中海には、国ごとに多くの島があるね。",
+      "source": "https://www.italia.it/en/italy/italian-regions",
+      "sourceName": "イタリア政府観光局"
+    },
+    {
+      "id": "sicily-now",
+      "era": "now",
+      "place": "シチリア島",
+      "point": [
+        37.6,
+        14
+      ],
+      "q": "地中海にあるシチリア島は、いま、どの国の一部かな？",
+      "choices": [
+        "イタリア",
+        "フランス",
+        "スペイン",
+        "ギリシャ"
+      ],
+      "a": 0,
+      "why": "イタリアだよ。地中海には、国ごとに多くの島があるね。",
+      "source": "https://www.italia.it/en/italy/italian-regions",
+      "sourceName": "イタリア政府観光局"
+    },
+    {
+      "id": "crete-now",
+      "era": "now",
+      "place": "クレタ島",
+      "point": [
+        35.2,
+        25
+      ],
+      "q": "地中海のクレタ島は、いま、どの国の一部かな？",
+      "choices": [
+        "ギリシャ",
+        "イタリア",
+        "トルコ",
+        "キプロス"
+      ],
+      "a": 0,
+      "why": "ギリシャだよ。ギリシャでいちばん大きな島なんだ。",
+      "source": "https://www.visitgreece.gr/en/mainland/Crete",
+      "sourceName": "ギリシャ政府観光局"
+    },
+    {
+      "id": "maldives-independence-year",
+      "era": "past",
+      "place": "モルディブ",
+      "point": [
+        3.2,
+        73.2
+      ],
+      "q": "モルディブがイギリスの保護領から独立したのは、何年かな？",
+      "choices": [
+        "1965年",
+        "1955年",
+        "1975年",
+        "1945年"
+      ],
+      "a": 0,
+      "why": "モルディブは、1965年に独立したよ。海に点々と広がる島々の国だね。",
+      "source": "https://www.mofa.go.jp/mofaj/area/maldives/data.html",
+      "sourceName": "外務省・モルディブの歴史"
+    },
+    {
+      "id": "fiji-independence-year",
+      "era": "past",
+      "place": "フィジー",
+      "point": [
+        -17.8,
+        178.1
+      ],
+      "q": "フィジーがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1970年",
+        "1960年",
+        "1980年",
+        "1950年"
+      ],
+      "a": 0,
+      "why": "フィジーは、1970年に独立したよ。独立と、日本が国として認めた年は同じなんだ。",
+      "source": "https://www.fj.emb-japan.go.jp/JapaneseVersion/Political/bilateral_fiji_J.html",
+      "sourceName": "外務省・フィジーの歴史"
+    },
+    {
+      "id": "png-independence-year",
+      "era": "past",
+      "place": "パプアニューギニア",
+      "point": [
+        -6.3,
+        145.4
+      ],
+      "q": "パプアニューギニアがオーストラリアによる統治から独立したのは、何年かな？",
+      "choices": [
+        "1975年",
+        "1965年",
+        "1985年",
+        "1955年"
+      ],
+      "a": 0,
+      "why": "1975年だよ。島の東側などからなる国として、独立したんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/png/data.html",
+      "sourceName": "外務省・パプアニューギニアの歴史"
+    },
+    {
+      "id": "solomon-independence-year",
+      "era": "past",
+      "place": "ソロモン諸島",
+      "point": [
+        -9.6,
+        160.2
+      ],
+      "q": "ソロモン諸島がイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1978年",
+        "1968年",
+        "1988年",
+        "1958年"
+      ],
+      "a": 0,
+      "why": "1978年だよ。たくさんの島々が1つの国をつくっているね。",
+      "source": "https://www.mofa.go.jp/mofaj/area/solomon/data.html",
+      "sourceName": "外務省・ソロモン諸島の歴史"
+    },
+    {
+      "id": "vanuatu-independence-year",
+      "era": "past",
+      "place": "バヌアツ",
+      "point": [
+        -16.3,
+        167.7
+      ],
+      "q": "バヌアツがイギリスとフランスの共同統治から独立したのは、何年かな？",
+      "choices": [
+        "1980年",
+        "1970年",
+        "1990年",
+        "1960年"
+      ],
+      "a": 0,
+      "why": "1980年だよ。それまでは、2つの国がいっしょに統治する地域だったんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/vanuatu/data.html",
+      "sourceName": "外務省・バヌアツの歴史"
+    },
+    {
+      "id": "kiribati-independence-year",
+      "era": "past",
+      "place": "キリバス",
+      "point": [
+        1.9,
+        -157.4
+      ],
+      "q": "キリバスがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1979年",
+        "1969年",
+        "1989年",
+        "1959年"
+      ],
+      "a": 0,
+      "why": "1979年だよ。太平洋に大きく広がる島々が、独立国になったんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/kiribati/data.html",
+      "sourceName": "外務省・キリバスの歴史"
+    },
+    {
+      "id": "tuvalu-independence-year",
+      "era": "past",
+      "place": "ツバル",
+      "point": [
+        -8.5,
+        179.2
+      ],
+      "q": "ツバルがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1978年",
+        "1968年",
+        "1988年",
+        "1958年"
+      ],
+      "a": 0,
+      "why": "1978年だよ。独立前には、エリス諸島という名前で知られていたよ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/tuvalu/data.html",
+      "sourceName": "外務省・ツバルの歴史"
+    },
+    {
+      "id": "nauru-independence-year",
+      "era": "past",
+      "place": "ナウル",
+      "point": [
+        -0.5,
+        166.9
+      ],
+      "q": "ナウルが国連の信託統治地域から独立したのは、何年かな？",
+      "choices": [
+        "1968年",
+        "1958年",
+        "1978年",
+        "1948年"
+      ],
+      "a": 0,
+      "why": "1968年だよ。独立前は、オーストラリアなど3つの国が政治を行っていたんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/nauru/data.html",
+      "sourceName": "外務省・ナウルの歴史"
+    },
+    {
+      "id": "palau-independence-year",
+      "era": "past",
+      "place": "パラオ",
+      "point": [
+        7.5,
+        134.6
+      ],
+      "q": "パラオがアメリカとの自由連合盟約が始まり、独立したのは、何年かな？",
+      "choices": [
+        "1994年",
+        "1984年",
+        "2004年",
+        "1974年"
+      ],
+      "a": 0,
+      "why": "1994年だよ。アメリカの領土になったのではなく、独立して特別な約束を結んだんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/palau/data.html",
+      "sourceName": "外務省・パラオの歴史"
+    },
+    {
+      "id": "marshall-independence-year",
+      "era": "past",
+      "place": "マーシャル諸島",
+      "point": [
+        7.1,
+        171.2
+      ],
+      "q": "マーシャル諸島がアメリカとの自由連合盟約が始まり、独立したのは、何年かな？",
+      "choices": [
+        "1986年",
+        "1976年",
+        "1996年",
+        "1966年"
+      ],
+      "a": 0,
+      "why": "1986年だよ。いまは独立国で、アメリカと特別な関係を結んでいるよ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/marshall/data.html",
+      "sourceName": "外務省・マーシャル諸島の歴史"
+    },
+    {
+      "id": "jamaica-independence-year",
+      "era": "past",
+      "place": "ジャマイカ",
+      "point": [
+        18.1,
+        -77.3
+      ],
+      "q": "ジャマイカがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1962年",
+        "1952年",
+        "1972年",
+        "1942年"
+      ],
+      "a": 0,
+      "why": "1962年だよ。ジャマイカは、カリブ海の独立国なんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/jamaica/data.html",
+      "sourceName": "外務省・ジャマイカの歴史"
+    },
+    {
+      "id": "barbados-independence-year",
+      "era": "past",
+      "place": "バルバドス",
+      "point": [
+        13.2,
+        -59.5
+      ],
+      "q": "バルバドスがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1966年",
+        "1956年",
+        "1976年",
+        "1946年"
+      ],
+      "a": 0,
+      "why": "1966年だよ。国のしくみがそのあと変わっても、独立した年は変わらないね。",
+      "source": "https://www.mofa.go.jp/mofaj/area/barbados/data.html",
+      "sourceName": "外務省・バルバドスの歴史"
+    },
+    {
+      "id": "antigua-independence-year",
+      "era": "past",
+      "place": "アンティグア・バーブーダ",
+      "point": [
+        17.1,
+        -61.8
+      ],
+      "q": "アンティグア・バーブーダがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1981年",
+        "1971年",
+        "1991年",
+        "1961年"
+      ],
+      "a": 0,
+      "why": "1981年だよ。2つの主な島の名前が、国名にも入っているね。",
+      "source": "https://www.mofa.go.jp/mofaj/area/antigua/data.html",
+      "sourceName": "外務省・アンティグア・バーブーダの歴史"
+    },
+    {
+      "id": "trinidad-independence-year",
+      "era": "past",
+      "place": "トリニダード・トバゴ",
+      "point": [
+        10.5,
+        -61.3
+      ],
+      "q": "トリニダード・トバゴがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1962年",
+        "1952年",
+        "1972年",
+        "1942年"
+      ],
+      "a": 0,
+      "why": "1962年だよ。2つの大きな島が1つの国をつくっているんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/trinidad/data.html",
+      "sourceName": "外務省・トリニダード・トバゴの歴史"
+    },
+    {
+      "id": "seychelles-independence-year",
+      "era": "past",
+      "place": "セーシェル",
+      "point": [
+        -4.7,
+        55.5
+      ],
+      "q": "セーシェルがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1976年",
+        "1966年",
+        "1986年",
+        "1956年"
+      ],
+      "a": 0,
+      "why": "1976年だよ。アフリカ大陸から離れた、インド洋の島国なんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/seychelles/data.html",
+      "sourceName": "外務省・セーシェルの歴史"
+    },
+    {
+      "id": "mauritius-independence-year",
+      "era": "past",
+      "place": "モーリシャス",
+      "point": [
+        -20.2,
+        57.6
+      ],
+      "q": "モーリシャスがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1968年",
+        "1958年",
+        "1978年",
+        "1948年"
+      ],
+      "a": 0,
+      "why": "1968年だよ。日本も、独立した日に国として認めたんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/mauritius/data.html",
+      "sourceName": "外務省・モーリシャスの歴史"
+    },
+    {
+      "id": "singapore-independence-year",
+      "era": "past",
+      "place": "シンガポール",
+      "point": [
+        1.35,
+        103.8
+      ],
+      "q": "シンガポールがマレーシアから分かれて独立したのは、何年かな？",
+      "choices": [
+        "1965年",
+        "1955年",
+        "1975年",
+        "1945年"
+      ],
+      "a": 0,
+      "why": "1965年だよ。それまでは、マレーシアの一部だったんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/singapore/data.html",
+      "sourceName": "外務省・シンガポールの歴史"
+    },
+    {
+      "id": "easttimor-independence-year",
+      "era": "past",
+      "place": "東ティモール",
+      "point": [
+        -8.6,
+        125.6
+      ],
+      "q": "東ティモールが国連の支えを受けて国づくりを進め、独立したのは、何年かな？",
+      "choices": [
+        "2002年",
+        "1992年",
+        "2012年",
+        "1982年"
+      ],
+      "a": 0,
+      "why": "2002年だよ。国連のもとで準備を進め、5月20日に独立したんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/easttimor/data.html",
+      "sourceName": "外務省・東ティモールの歴史"
+    },
+    {
+      "id": "brunei-independence-year",
+      "era": "past",
+      "place": "ブルネイ",
+      "point": [
+        4.5,
+        114.7
+      ],
+      "q": "ブルネイがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1984年",
+        "1974年",
+        "1994年",
+        "1964年"
+      ],
+      "a": 0,
+      "why": "1984年だよ。ボルネオ島の北側にある国なんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/brunei/data.html",
+      "sourceName": "外務省・ブルネイの歴史"
+    },
+    {
+      "id": "ghana-independence-year",
+      "era": "past",
+      "place": "ガーナ",
+      "point": [
+        7.9,
+        -1.1
+      ],
+      "q": "ガーナがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1957年",
+        "1947年",
+        "1967年",
+        "1937年"
+      ],
+      "a": 0,
+      "why": "1957年だよ。独立前には、ゴールド・コーストと呼ばれていたよ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/ghana/data.html",
+      "sourceName": "外務省・ガーナの歴史"
+    },
+    {
+      "id": "kenya-independence-year",
+      "era": "past",
+      "place": "ケニア",
+      "point": [
+        0.2,
+        37.9
+      ],
+      "q": "ケニアがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1963年",
+        "1953年",
+        "1973年",
+        "1943年"
+      ],
+      "a": 0,
+      "why": "1963年だよ。アフリカ東部の国が、自分たちで政治を行う独立国になったんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/kenya/data.html",
+      "sourceName": "外務省・ケニアの歴史"
+    },
+    {
+      "id": "tanzania-independence-year",
+      "era": "past",
+      "place": "タンガニーカ",
+      "point": [
+        -6,
+        35
+      ],
+      "q": "タンガニーカがイギリスの統治から独立したのは、何年かな？",
+      "choices": [
+        "1961年",
+        "1951年",
+        "1971年",
+        "1941年"
+      ],
+      "a": 0,
+      "why": "1961年だよ。ザンジバルと1つになってタンザニアになるのは、そのあとの1964年だよ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/tanzania/data.html",
+      "sourceName": "外務省・タンガニーカの歴史"
+    },
+    {
+      "id": "zambia-independence-year",
+      "era": "past",
+      "place": "ザンビア",
+      "point": [
+        -13.1,
+        27.8
+      ],
+      "q": "ザンビアがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1964年",
+        "1954年",
+        "1974年",
+        "1944年"
+      ],
+      "a": 0,
+      "why": "1964年だよ。アフリカの内陸にある国なんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/zambia/data.html",
+      "sourceName": "外務省・ザンビアの歴史"
+    },
+    {
+      "id": "botswana-independence-year",
+      "era": "past",
+      "place": "ボツワナ",
+      "point": [
+        -22.3,
+        24.7
+      ],
+      "q": "ボツワナがイギリスの保護領から独立したのは、何年かな？",
+      "choices": [
+        "1966年",
+        "1956年",
+        "1976年",
+        "1946年"
+      ],
+      "a": 0,
+      "why": "1966年だよ。国境が海にふれていない、内陸の国だね。",
+      "source": "https://www.mofa.go.jp/mofaj/area/botswana/data.html",
+      "sourceName": "外務省・ボツワナの歴史"
+    },
+    {
+      "id": "namibia-independence-year",
+      "era": "past",
+      "place": "ナミビア",
+      "point": [
+        -22.6,
+        17.1
+      ],
+      "q": "ナミビアが南アフリカによる統治が終わり、独立したのは、何年かな？",
+      "choices": [
+        "1990年",
+        "1980年",
+        "2000年",
+        "1970年"
+      ],
+      "a": 0,
+      "why": "1990年だよ。国連の支えを受けて、独立への道を進んだんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/namibia/data.html",
+      "sourceName": "外務省・ナミビアの歴史"
+    },
+    {
+      "id": "madagascar-independence-year",
+      "era": "past",
+      "place": "マダガスカル",
+      "point": [
+        -18.9,
+        47.5
+      ],
+      "q": "マダガスカルがフランスから独立したのは、何年かな？",
+      "choices": [
+        "1960年",
+        "1950年",
+        "1970年",
+        "1940年"
+      ],
+      "a": 0,
+      "why": "1960年だよ。アフリカの東の大きな島が、独立国になったんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/madagascar/data.html",
+      "sourceName": "外務省・マダガスカルの歴史"
+    },
+    {
+      "id": "capeverde-independence-year",
+      "era": "past",
+      "place": "カーボベルデ",
+      "point": [
+        15.1,
+        -23.6
+      ],
+      "q": "カーボベルデがポルトガルから独立したのは、何年かな？",
+      "choices": [
+        "1975年",
+        "1965年",
+        "1985年",
+        "1955年"
+      ],
+      "a": 0,
+      "why": "1975年だよ。アフリカの西、大西洋にある島々の国なんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/capeverde/data.html",
+      "sourceName": "外務省・カーボベルデの歴史"
+    },
+    {
+      "id": "sao-independence-year",
+      "era": "past",
+      "place": "サントメ・プリンシペ",
+      "point": [
+        0.3,
+        6.7
+      ],
+      "q": "サントメ・プリンシペがポルトガルから独立したのは、何年かな？",
+      "choices": [
+        "1975年",
+        "1965年",
+        "1985年",
+        "1955年"
+      ],
+      "a": 0,
+      "why": "1975年だよ。アフリカの西側の海にある島国なんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/stp/data.html",
+      "sourceName": "外務省・サントメ・プリンシペの歴史"
+    },
+    {
+      "id": "cyprus-independence-year",
+      "era": "past",
+      "place": "キプロス",
+      "point": [
+        35,
+        33
+      ],
+      "q": "キプロスがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1960年",
+        "1950年",
+        "1970年",
+        "1940年"
+      ],
+      "a": 0,
+      "why": "1960年だよ。独立した年と、そのあとの島の歴史は分けて覚えよう。",
+      "source": "https://www.mofa.go.jp/mofaj/area/cyprus/data.html",
+      "sourceName": "外務省・キプロスの歴史"
+    },
+    {
+      "id": "malta-independence-year",
+      "era": "past",
+      "place": "マルタ",
+      "point": [
+        35.9,
+        14.4
+      ],
+      "q": "マルタがイギリスから独立したのは、何年かな？",
+      "choices": [
+        "1964年",
+        "1954年",
+        "1974年",
+        "1944年"
+      ],
+      "a": 0,
+      "why": "1964年だよ。地中海にある小さな島国なんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/malta/data.html",
+      "sourceName": "外務省・マルタの歴史"
+    },
+    {
+      "id": "iceland-independence-year",
+      "era": "past",
+      "place": "アイスランド",
+      "point": [
+        65,
+        -19
+      ],
+      "q": "アイスランドがデンマークとの同君連合を終え、共和国として独立したのは、何年かな？",
+      "choices": [
+        "1944年",
+        "1934年",
+        "1954年",
+        "1924年"
+      ],
+      "a": 0,
+      "why": "1944年だよ。「同君連合」は、別々の国が同じ王をいただく関係のことなんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/annai/honsho/shiryo/qa/sonota_01.html",
+      "sourceName": "外務省・アイスランドの歴史"
+    },
+    {
+      "id": "suriname-independence-year",
+      "era": "past",
+      "place": "スリナム",
+      "point": [
+        4,
+        -56
+      ],
+      "q": "スリナムがオランダから独立したのは、何年かな？",
+      "choices": [
+        "1975年",
+        "1965年",
+        "1985年",
+        "1955年"
+      ],
+      "a": 0,
+      "why": "1975年だよ。南アメリカにも、オランダの統治を受けた国があるんだね。",
+      "source": "https://www.mofa.go.jp/mofaj/area/suriname/data.html",
+      "sourceName": "外務省・スリナムの歴史"
+    },
+    {
+      "id": "bangladesh-independence-year",
+      "era": "past",
+      "place": "バングラデシュ",
+      "point": [
+        23.7,
+        90.4
+      ],
+      "q": "バングラデシュがパキスタンから独立したのは、何年かな？",
+      "choices": [
+        "1971年",
+        "1961年",
+        "1981年",
+        "1951年"
+      ],
+      "a": 0,
+      "why": "1971年だよ。それまでは、東パキスタンと呼ばれていたんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/bangladesh/data.html",
+      "sourceName": "外務省・バングラデシュの歴史"
+    },
+    {
+      "id": "vanuatu-joint-rule",
+      "era": "past",
+      "place": "バヌアツ",
+      "point": [
+        -16.3,
+        167.7
+      ],
+      "q": "1906年から、いまのバヌアツをいっしょに統治した2つの国はどこかな？",
+      "choices": [
+        "イギリスとフランス",
+        "イギリスとオランダ",
+        "フランスとドイツ",
+        "スペインとポルトガル"
+      ],
+      "a": 0,
+      "why": "イギリスとフランスだよ。1つの地域を2つの国が共同で統治した、めずらしいしくみだったんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/vanuatu/data.html",
+      "sourceName": "外務省・バヌアツ基礎データ"
+    },
+    {
+      "id": "cook-selfgovernment",
+      "era": "past",
+      "place": "クック諸島",
+      "point": [
+        -21.2,
+        -159.8
+      ],
+      "q": "クック諸島が、自分たちで政治を行う「自由連合」のしくみになったのは何年かな？",
+      "choices": [
+        "1965年",
+        "1974年",
+        "1986年",
+        "1994年"
+      ],
+      "a": 0,
+      "why": "1965年だよ。相手はニュージーランド。自由連合を始めた年として覚えよう。",
+      "source": "https://teara.govt.nz/en/pacific-islands-and-new-zealand/print",
+      "sourceName": "ニュージーランド政府・百科事典"
+    },
+    {
+      "id": "niue-selfgovernment",
+      "era": "past",
+      "place": "ニウエ",
+      "point": [
+        -19.1,
+        -169.9
+      ],
+      "q": "ニウエが、ニュージーランドとの自由連合のもとで自治を始めたのは何年かな？",
+      "choices": [
+        "1974年",
+        "1965年",
+        "1986年",
+        "1994年"
+      ],
+      "a": 0,
+      "why": "1974年だよ。クック諸島が同じようなしくみを始めた1965年より、9年あとなんだ。",
+      "source": "https://www.dfat.gov.au/geo/niue/niue-country-brief",
+      "sourceName": "オーストラリア外務貿易省"
+    },
+    {
+      "id": "panama-transfer",
+      "era": "past",
+      "place": "パナマ運河",
+      "point": [
+        9.1,
+        -79.7
+      ],
+      "q": "パナマ運河の管理が、アメリカからパナマへ完全に移ったのは何年かな？",
+      "choices": [
+        "1999年",
+        "1977年",
+        "1914年",
+        "2009年"
+      ],
+      "a": 0,
+      "why": "1999年だよ。約束を結んだ年と、管理が完全に移った年はちがうんだ。",
+      "source": "https://pancanal.com/20-hitos-en-20-anos-transferencia-del-canal-de-panama/",
+      "sourceName": "パナマ運河庁"
+    },
+    {
+      "id": "louisiana-seller",
+      "era": "past",
+      "place": "ルイジアナ",
+      "point": [
+        33,
+        -92
+      ],
+      "q": "1803年、アメリカは広いルイジアナの土地を買ったよ。相手の国はどこかな？",
+      "choices": [
+        "フランス",
+        "イギリス",
+        "スペイン",
+        "ロシア"
+      ],
+      "a": 0,
+      "why": "フランスだよ。買った土地は、いまのルイジアナ州だけでなく、ずっと広い範囲だったんだ。",
+      "source": "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+      "sourceName": "アメリカ国立公文書館"
+    },
+    {
+      "id": "hongkong-handover",
+      "era": "past",
+      "place": "香港",
+      "point": [
+        22.3,
+        114.2
+      ],
+      "q": "香港がイギリスから中国へ返還されたのは何年かな？",
+      "choices": [
+        "1997年",
+        "1999年",
+        "1984年",
+        "2002年"
+      ],
+      "a": 0,
+      "why": "1997年だよ。マカオが返還された年とはちがうので、分けて覚えよう。",
+      "source": "https://www.mofa.go.jp/mofaj/area/hongkong/data.html",
+      "sourceName": "外務省・香港基礎データ"
+    },
+    {
+      "id": "macao-handover",
+      "era": "past",
+      "place": "マカオ",
+      "point": [
+        22.2,
+        113.5
+      ],
+      "q": "マカオがポルトガルから中国へ返還されたのは何年かな？",
+      "choices": [
+        "1999年",
+        "1997年",
+        "1987年",
+        "2002年"
+      ],
+      "a": 0,
+      "why": "1999年だよ。香港はイギリスから、マカオはポルトガルから返還されたんだ。",
+      "source": "https://www.mofa.go.jp/mofaj/area/macao/data.html",
+      "sourceName": "外務省・マカオ基礎データ"
+    }
+  ]
+}
